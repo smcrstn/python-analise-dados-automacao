@@ -32,6 +32,43 @@ Estrutura do projeto
 
 O repositório está organizado para apresentar não apenas o resultado final, mas também o processo de pesquisa e aprendizagem:
 
+
+Fontes e Curadoria
+
+Para a construção deste caderno temático, foram selecionadas fontes abertas relacionadas à linguagem Python, análise de dados, automação e às principais ferramentas utilizadas no projeto.
+
+A curadoria teve como objetivo reunir materiais confiáveis que servissem tanto para a compreensão dos fundamentos quanto para consultas posteriores durante o desenvolvimento de projetos práticos.
+
+Fontes utilizadas
+
+1. **Python Documentation**
+   Documentação oficial da linguagem Python, utilizada como referência para conceitos fundamentais, sintaxe e recursos da linguagem.
+
+2. **Pandas Documentation**
+   Documentação oficial da biblioteca Pandas, utilizada como referência para manipulação, tratamento e análise de dados.
+
+3. **NumPy Documentation**
+   Documentação oficial do NumPy, utilizada como referência para operações numéricas e estruturas utilizadas no ecossistema de análise de dados em Python.
+
+4. **Jupyter Documentation**
+   Material de referência sobre o ecossistema Jupyter e sua utilização em estudos, experimentação e análise de dados.
+
+5. **PyCodeBR**
+   Conteúdo educacional utilizado como fonte complementar para estudos e compreensão prática de Python.
+
+Critério de curadoria
+
+As fontes foram selecionadas considerando principalmente:
+
+* confiabilidade e relevância técnica;
+* acesso aberto ao conteúdo;
+* relação direta com o tema escolhido;
+* possibilidade de consulta futura;
+* aplicação dos conhecimentos em situações práticas.
+
+Os conteúdos selecionados foram organizados e utilizados no **NotebookLM** como base para pesquisa, comparação de informações e elaboração do material final.
+
+
 * `fontes/` — fontes utilizadas na pesquisa e disponibilizadas no NotebookLM;
 * `engenharia-de-prompts/` — prompts utilizados, testes, dificuldades e melhorias realizadas;
 * `miniguia/` — resumo estruturado, conceitos e glossário para consulta futura;
