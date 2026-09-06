@@ -31,12 +31,19 @@ Tecnologias e ferramentas
 Estrutura do projeto
 
 O repositório está organizado para apresentar não apenas o resultado final, mas também o processo de pesquisa e aprendizagem:
-Para a construção deste caderno temático, foram selecionadas fontes abertas relacionadas à linguagem Python, análise de dados, automação e às principais ferramentas utilizadas no projeto.
 
+* `fontes/` — fontes utilizadas na pesquisa e disponibilizadas no NotebookLM;
+* `engenharia-de-prompts/` — prompts utilizados, testes, dificuldades e melhorias realizadas;
+* `miniguia/` — resumo estruturado, conceitos e glossário para consulta futura;
+* `projeto-pratico/` — exemplo de aplicação de Python em automação e controle de estoque;
+* `apresentacao/` — material de apresentação desenvolvido durante o projeto.
 
 Fontes e Curadoria
 
+Para a construção deste caderno temático, foram selecionadas fontes abertas relacionadas à linguagem Python, análise de dados, automação e às principais ferramentas utilizadas no projeto.
+
 A curadoria teve como objetivo reunir materiais confiáveis que servissem tanto para a compreensão dos fundamentos quanto para consultas posteriores durante o desenvolvimento de projetos práticos.
+
 
 Fontes utilizadas
 
