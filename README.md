@@ -75,3 +75,48 @@ Os conteúdos selecionados foram organizados e utilizados no **NotebookLM** como
 * `projeto-pratico/` — exemplo de aplicação de Python em automação e controle de estoque;
 * `apresentacao/` — material de apresentação desenvolvido durante o projeto.
 
+
+Engenharia de Prompts e "Cicatrizes"
+
+Durante o desenvolvimento do caderno temático, a Inteligência Artificial foi utilizada como ferramenta de apoio à pesquisa, organização das informações, revisão dos conteúdos e desenvolvimento dos exemplos práticos.
+
+O processo não se limitou à obtenção de uma resposta inicial. Os prompts foram sendo ajustados conforme as necessidades do projeto, buscando respostas mais específicas, estruturadas e relacionadas aos objetivos de estudo.
+
+Processo utilizado
+
+O desenvolvimento dos prompts passou, de forma geral, pelas seguintes etapas:
+
+1. **Definição do objetivo** — identificação do que precisava ser pesquisado ou desenvolvido;
+2. **Elaboração do prompt inicial** — formulação da primeira pergunta ou solicitação;
+3. **Análise da resposta** — verificação da clareza, relevância e aderência ao objetivo;
+4. **Identificação de dificuldades** — observação de respostas incompletas, genéricas ou que precisavam de maior contexto;
+5. **Refinamento do prompt** — inclusão de contexto, restrições e objetivos mais específicos;
+6. **Validação** — comparação do resultado com as fontes disponíveis e com o objetivo do projeto.
+
+Exemplos de estratégias utilizadas
+
+* Solicitar explicações de conceitos de Python em diferentes níveis de profundidade;
+* Pedir exemplos práticos relacionados à análise de dados;
+* Solicitar comparações entre bibliotecas e ferramentas;
+* Utilizar a IA para revisar e organizar conteúdos pesquisados;
+* Refinar perguntas quando a resposta inicial era muito genérica;
+* Solicitar que exemplos fossem adaptados para situações práticas de logística e controle de estoque.
+
+"Cicatrizes" do projeto
+
+As dificuldades encontradas durante o desenvolvimento também fazem parte do aprendizado.
+
+Entre os principais pontos observados estão:
+
+* necessidade de fornecer contexto suficiente para obter respostas mais precisas;
+* diferença entre uma resposta conceitualmente correta e uma solução realmente aplicável;
+* necessidade de revisar informações produzidas pela IA;
+* ajustes sucessivos nos prompts para melhorar os resultados;
+* necessidade de testar exemplos de código em ambiente de desenvolvimento antes de considerá-los válidos.
+
+Essas experiências reforçaram a importância de **não tratar a IA como fonte única de verdade**, mas como uma ferramenta de apoio que precisa ser orientada, questionada e validada.
+
+Aprendizado
+
+A principal conclusão dessa etapa foi que a qualidade do resultado depende não apenas da ferramenta utilizada, mas também da capacidade de formular boas perguntas, fornecer contexto, analisar as respostas e realizar testes práticos.
+
