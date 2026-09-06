@@ -75,13 +75,6 @@ As fontes foram selecionadas considerando principalmente:
 Os conteúdos selecionados foram organizados e utilizados no **NotebookLM** como base para pesquisa, comparação de informações e elaboração do material final.
 
 
-* `fontes/` — fontes utilizadas na pesquisa e disponibilizadas no NotebookLM;
-* `engenharia-de-prompts/` — prompts utilizados, testes, dificuldades e melhorias realizadas;
-* `miniguia/` — resumo estruturado, conceitos e glossário para consulta futura;
-* `projeto-pratico/` — exemplo de aplicação de Python em automação e controle de estoque;
-* `apresentacao/` — material de apresentação desenvolvido durante o projeto.
-
-
 Engenharia de Prompts e "Cicatrizes"
 
 Durante o desenvolvimento do caderno temático, a Inteligência Artificial foi utilizada como ferramenta de apoio à pesquisa, organização das informações, revisão dos conteúdos e desenvolvimento dos exemplos práticos.
