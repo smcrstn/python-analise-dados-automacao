@@ -31,11 +31,10 @@ Tecnologias e ferramentas
 Estrutura do projeto
 
 O repositório está organizado para apresentar não apenas o resultado final, mas também o processo de pesquisa e aprendizagem:
+Para a construção deste caderno temático, foram selecionadas fontes abertas relacionadas à linguagem Python, análise de dados, automação e às principais ferramentas utilizadas no projeto.
 
 
 Fontes e Curadoria
-
-Para a construção deste caderno temático, foram selecionadas fontes abertas relacionadas à linguagem Python, análise de dados, automação e às principais ferramentas utilizadas no projeto.
 
 A curadoria teve como objetivo reunir materiais confiáveis que servissem tanto para a compreensão dos fundamentos quanto para consultas posteriores durante o desenvolvimento de projetos práticos.
 
@@ -197,27 +196,25 @@ A partir desse cálculo, é possível identificar situações como:
 
 Essa aplicação demonstra como programação e análise de dados podem apoiar processos de controle de estoque.
 
----
 
 Glossário
 
-| Conceito            | Definição                                                                       |
-| ------------------- | ------------------------------------------------------------------------------- |
-| **Python**          | Linguagem de programação utilizada no projeto.                                  |
-| **DataFrame**       | Estrutura de dados tabular utilizada pelo Pandas.                               |
-| **Pandas**          | Biblioteca Python para manipulação e análise de dados.                          |
-| **API**             | Interface que permite a comunicação entre sistemas.                             |
-| **Automação**       | Utilização de tecnologia para executar tarefas com menor intervenção manual.    |
-| **OpenPyXL**        | Biblioteca Python para trabalhar com arquivos Excel `.xlsx`.                    |
-| **SKU**             | Código utilizado para identificar um produto ou unidade de estoque.             |
-| **Estoque físico**  | Quantidade efetivamente encontrada durante a contagem física.                   |
-| **Estoque sistema** | Quantidade registrada no sistema de gestão.                                     |
-| **Divergência**     | Diferença entre o estoque físico e o estoque registrado no sistema.             |
-| **Git**             | Sistema de controle de versão utilizado para acompanhar alterações em projetos. |
-| **GitHub**          | Plataforma utilizada para armazenar e compartilhar repositórios de código.      |
-| **Prompt**          | Instrução ou pergunta fornecida a uma ferramenta de Inteligência Artificial.    |
+| Conceito | Definição |
+| --- | --- |
+| **Python** | Linguagem de programação utilizada no projeto. |
+| **DataFrame** | Estrutura de dados tabular utilizada pelo Pandas. |
+| **Pandas** | Biblioteca Python para manipulação e análise de dados. |
+| **API** | Interface que permite a comunicação entre sistemas. |
+| **Automação** | Utilização de tecnologia para executar tarefas com menor intervenção manual. |
+| **OpenPyXL** | Biblioteca Python para trabalhar com arquivos Excel `.xlsx`. |
+| **SKU** | Código utilizado para identificar um produto ou unidade de estoque. |
+| **Estoque físico** | Quantidade efetivamente encontrada durante a contagem física. |
+| **Estoque sistema** | Quantidade registrada no sistema de gestão. |
+| **Divergência** | Diferença entre o estoque físico e o estoque registrado no sistema. |
+| **Git** | Sistema de controle de versão utilizado para acompanhar alterações em projetos. |
+| **GitHub** | Plataforma utilizada para armazenar e compartilhar repositórios de código. |
+| **Prompt** | Instrução ou pergunta fornecida a uma ferramenta de Inteligência Artificial. |
 
----
 
 Prompts reutilizáveis
 
@@ -246,4 +243,26 @@ Revisar antes de utilizar
 Preparação profissional
 
 > Estou estudando Python para trabalhar com análise de dados e automação. Crie um exercício baseado em uma situação profissional de logística, estoque ou operações e avalie minha solução, apontando o que eu deveria melhorar.
+
+
+Resultado Prático
+
+Como aplicação prática dos conhecimentos estudados, foi desenvolvido um exemplo de automação de controle de estoque utilizando Python.
+
+O projeto realiza o tratamento e a organização dos dados e gera uma planilha Excel com informações de conciliação e indicadores.
+
+O arquivo gerado contém, entre outras informações:
+
+* dados de estoque;
+* comparação entre estoque do sistema e estoque físico;
+* identificação de divergências;
+* classificação das divergências;
+* indicadores de acompanhamento.
+
+Arquivos do projeto
+
+* `inventario_automacao.py` — script Python utilizado no exemplo de automação;
+* `controle_estoque_olist_automatizado.xlsx` — planilha Excel gerada pelo Python com os resultados da análise.
+
+> Os dados utilizados no exemplo são fictícios/simulados e não representam informações confidenciais de empresas, produtos ou pessoas.
 
