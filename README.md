@@ -120,3 +120,130 @@ Aprendizado
 
 A principal conclusão dessa etapa foi que a qualidade do resultado depende não apenas da ferramenta utilizada, mas também da capacidade de formular boas perguntas, fornecer contexto, analisar as respostas e realizar testes práticos.
 
+
+Miniguia de Estudo
+
+Este miniguia reúne os principais conhecimentos consolidados durante o desenvolvimento do caderno temático. Seu objetivo é servir como material de revisão e consulta em futuros estudos e projetos profissionais.
+
+1. Python
+
+Python é uma linguagem de programação de alto nível, conhecida pela sintaxe relativamente simples e pela ampla utilização em áreas como análise de dados, automação, desenvolvimento de aplicações e inteligência artificial.
+
+Entre os fundamentos estudados estão:
+
+* variáveis e tipos de dados;
+* estruturas condicionais;
+* estruturas de repetição;
+* funções;
+* listas, dicionários e outras estruturas de dados;
+* tratamento de erros;
+* importação e utilização de bibliotecas.
+
+2. Análise de Dados
+
+A análise de dados envolve a organização, transformação e interpretação de informações para identificar padrões e apoiar a tomada de decisões.
+
+No projeto, Python foi relacionado principalmente ao tratamento de dados de estoque e à geração de informações para análise.
+
+3. Pandas
+
+Pandas é uma das principais bibliotecas de Python para manipulação e análise de dados.
+
+Entre seus recursos estão:
+
+* leitura de dados;
+* criação e manipulação de DataFrames;
+* filtros e consultas;
+* tratamento de valores;
+* agrupamentos;
+* combinação de diferentes conjuntos de dados;
+* geração de resultados para análise.
+
+4. Automação
+
+A automação permite utilizar programação para executar tarefas repetitivas de forma mais rápida, padronizada e menos sujeita a erros manuais.
+
+No exemplo desenvolvido, Python foi utilizado para automatizar etapas relacionadas à consulta, tratamento e comparação de dados de estoque.
+
+5. APIs
+
+Uma API permite que diferentes sistemas se comuniquem entre si.
+
+No projeto prático, foi estudada a utilização de uma API de sistema de gestão para obter dados que posteriormente poderiam ser tratados com Python e utilizados em uma planilha de controle.
+
+6. Excel e OpenPyXL
+
+O Excel continua sendo uma ferramenta importante para análise e controle de dados.
+
+A biblioteca OpenPyXL permite que Python crie, leia e manipule arquivos no formato `.xlsx`, possibilitando automatizar a geração de planilhas.
+
+7. Aplicação em Estoque
+
+Um dos objetivos do projeto foi relacionar os conhecimentos de Python com uma situação prática de logística.
+
+O exemplo considera a comparação entre:
+
+**Estoque do sistema × Estoque físico**
+
+A divergência pode ser calculada por:
+
+**Divergência = Estoque Físico − Estoque Sistema**
+
+A partir desse cálculo, é possível identificar situações como:
+
+* estoque acurado;
+* falta física;
+* sobra de estoque.
+
+Essa aplicação demonstra como programação e análise de dados podem apoiar processos de controle de estoque.
+
+---
+
+Glossário
+
+| Conceito            | Definição                                                                       |
+| ------------------- | ------------------------------------------------------------------------------- |
+| **Python**          | Linguagem de programação utilizada no projeto.                                  |
+| **DataFrame**       | Estrutura de dados tabular utilizada pelo Pandas.                               |
+| **Pandas**          | Biblioteca Python para manipulação e análise de dados.                          |
+| **API**             | Interface que permite a comunicação entre sistemas.                             |
+| **Automação**       | Utilização de tecnologia para executar tarefas com menor intervenção manual.    |
+| **OpenPyXL**        | Biblioteca Python para trabalhar com arquivos Excel `.xlsx`.                    |
+| **SKU**             | Código utilizado para identificar um produto ou unidade de estoque.             |
+| **Estoque físico**  | Quantidade efetivamente encontrada durante a contagem física.                   |
+| **Estoque sistema** | Quantidade registrada no sistema de gestão.                                     |
+| **Divergência**     | Diferença entre o estoque físico e o estoque registrado no sistema.             |
+| **Git**             | Sistema de controle de versão utilizado para acompanhar alterações em projetos. |
+| **GitHub**          | Plataforma utilizada para armazenar e compartilhar repositórios de código.      |
+| **Prompt**          | Instrução ou pergunta fornecida a uma ferramenta de Inteligência Artificial.    |
+
+---
+
+Prompts reutilizáveis
+
+Os prompts abaixo foram estruturados para futuras revisões e estudos.
+
+Estudar um conceito
+
+> Explique [CONCEITO] em Python começando pelo nível básico e avançando gradualmente. Apresente exemplos práticos e destaque os erros mais comuns de iniciantes.
+
+Analisar um código
+
+> Analise o código abaixo como um professor de Python. Explique o que cada parte faz, identifique possíveis problemas e sugira melhorias sem alterar o objetivo original.
+
+Praticar análise de dados
+
+> Crie um exercício de análise de dados utilizando Python e Pandas, com dados fictícios de logística ou estoque. Apresente o problema, os dados e depois explique uma possível solução passo a passo.
+
+Automatizar uma tarefa
+
+> Tenho uma tarefa repetitiva relacionada a [DESCREVER TAREFA]. Analise como Python poderia automatizá-la. Apresente a lógica da solução, as bibliotecas necessárias e um exemplo utilizando dados fictícios.
+
+Revisar antes de utilizar
+
+> Revise esta solução de Python procurando erros de lógica, problemas de sintaxe, riscos de dados e pontos que precisam ser testados. Não considere a solução correta apenas porque o código foi gerado por IA.
+
+Preparação profissional
+
+> Estou estudando Python para trabalhar com análise de dados e automação. Crie um exercício baseado em uma situação profissional de logística, estoque ou operações e avalie minha solução, apontando o que eu deveria melhorar.
+
